@@ -1,4 +1,4 @@
-Design and Analysis of Algorithms - Greedy algorithm for set cover
+## Design and Analysis of Algorithms - Greedy algorithm for set cover
 
 Домашнє завдання до модуля **«Алгоритми штучного інтелекту»**.
 
